@@ -1,0 +1,9 @@
+{
+  "latest_version": "1.1.0",
+  "release_date": "2026-09-10",
+  "patch_notes": [
+    "Added data corruption safety checks."
+  ],
+  "download_url": "https://github.com",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
